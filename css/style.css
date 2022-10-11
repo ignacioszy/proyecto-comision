@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+
+.header_links-diseño {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.header_links-color {
+    background-color: rgba(121, 121, 121, 0.61);
+}
